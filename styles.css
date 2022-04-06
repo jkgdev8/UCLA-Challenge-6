@@ -1,9 +1,0 @@
-.weather {
-    background-image: linear-gradient(to left, blue, white);
-    color: white;
-    display: flex;
-    text-shadow: 2px 2px black;
-    flex-wrap: wrap;
-    justify-content: center;
-      
-}
