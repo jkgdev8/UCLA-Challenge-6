@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 ![Preview](screen.png)
 
 ## Link
-https://github.com/jkgdev8/Weather-Dashboard-UCLA-Challenge-6
+https://jkgdev8.github.io/Weather-Dashboard-UCLA-Challenge-6/
 
 ## Repo
 https://github.com/jkgdev8/Weather-Dashboard-UCLA-Challenge-6
